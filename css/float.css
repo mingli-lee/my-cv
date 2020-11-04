@@ -1,0 +1,19 @@
+.image-gthf {
+    position: absolute;
+    display: none;
+    transition: 0.5s linear;
+}
+.image-tot {
+    position: absolute;
+    display: none;
+    transition: 0.5s linear;
+}
+.image-dsc{
+    position: absolute;
+    display: none;
+    transition: 0.5s linear;
+}
+
+.event{
+    margin-top: 20px;
+}
