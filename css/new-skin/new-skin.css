@@ -880,7 +880,7 @@ input[type="file"] {
 	Content
 */
 .content {
-	margin: 0 0 40px 0;
+	margin: 0 0 30px 0;
 }
 
 .content:last-child {
@@ -943,6 +943,7 @@ input[type="file"] {
 /* About */
 .text-box p {
 	margin-top: 0;
+	text-align: center;
 }
 
 .content.about p {
