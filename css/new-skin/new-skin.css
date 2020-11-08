@@ -1243,6 +1243,33 @@ input[type="file"] {
 	display: none;
 }
 
+.flex-item .group{
+	margin: 0 0 11px 0;
+	padding: 0 5px;
+	font-size: 13px;
+	line-height: 18px;
+	color: #ccc;
+	font-weight: 400;
+	text-transform: none;
+	border: 1px solid #eeeeee;
+}
+
+.flex-item .group {
+	margin: 0 0 10px 0;
+	padding: 0;
+	position: relative;
+	display: inline-block;
+	font-size: 11px;
+	line-height: 18px;
+	color: #d8dbe2;
+	font-weight: 500;
+	text-transform: uppercase;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-khtml-border-radius: 4px;
+}
+
 .resume-items .resume-item .name {
 	font-size: 17px;
 	color: #323232;
@@ -1348,11 +1375,11 @@ input[type="file"] {
 	transform: scale(1.05);
 	-webkit-transform: scale(1.05);
 }
-
-.box-item .desc {
+/*
+box-item .desc {
 	padding: 15px 0;
 }
-
+*/
 .content.works .box-item .desc {
 	padding: 0 0 15px 0;
 }
