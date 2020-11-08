@@ -950,10 +950,11 @@ input[type="file"] {
 	margin-bottom: 0;
 }
 
+/*
 .info-list {
 	padding-top: 20px;
 }
-
+*/
 .content.contacts .info-list ul {
 	margin: -11px -30px 0 -30px;
 	font-size: 0;
